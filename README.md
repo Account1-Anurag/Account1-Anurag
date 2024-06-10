@@ -1,21 +1,19 @@
 <div align="center">
     <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+This+is+Amrit+and+Welcome+to+my+Profile!" alt="Hey, This is Amrit and welcome to my profile! animated typed out" width="90%" align="middle"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+This+is+Anurag+and+Welcome+to+my+Profile!" alt="Hey, This is Amrit and welcome to my profile! animated typed out" width="90%" align="middle"/>
     <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
   </div>
   
   
   <div align="center">
     <p><b>Profile Views</b></p>
-    <img src="https://profile-counter.glitch.me/amrit-GH23/count.svg" />
+    <img src="https://profile-counter.glitch.me/Account1-Anurag/count.svg" />
   </div>
   
   
   <h2></h2>
   
   <img align="right" src="./assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
-  
-  <h2 align="center"> Self-taught and learning coding! </h2><br>
 <h1 align="center">Hi 👋, I'm Anurag Kumar</h1>
 <h3 align="center">A passionate Competitive Programmer from India</h3>
 
