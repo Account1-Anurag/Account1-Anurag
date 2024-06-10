@@ -54,3 +54,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=account1-anurag&show_icons=true&locale=en" alt="account1-anurag" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=account1-anurag&" alt="account1-anurag" /></p>
+
+ <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amrit-GH23&custom_title=amrit-GH23's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="amrit-GH23's Github Activity Graph" width="100%">
+  </div>
