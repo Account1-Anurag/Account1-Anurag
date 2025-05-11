@@ -66,10 +66,18 @@ Check out my portfolio here: [anuragk.me](https://anuragk.me)
 
 ---
 
+### 🧾 Resume
+
+📄 [Click to View My Resume](https://drive.google.com/file/d/1ptSAM_5UlR-i9XtxVXeDUZjO9TiFGkQE/view?usp=drive_link)
+
+> _(Tip: Replace the Google Drive link above with your actual resume link if needed.)_
+
+---
+
 ### 📊 Competitive Programming Stats
 
-- 🔹 Codeforces: [anurag_vasu](https://codeforces.com/profile/anurag_vasu) — *Max Rating: 12XX*
-- 🔹 CodeChef: [anuragvasu24](https://www.codechef.com/users/anuragvasu24) — *3★ (Rating: 16XX)*
+- 🔹 Codeforces: [anurag_vasu](https://codeforces.com/profile/anurag_vasu) — *Max Rating: 1402*
+- 🔹 CodeChef: [anuragvasu24](https://www.codechef.com/users/anuragvasu24) — *3★ (Rating: 1678)*
 
 ---
 
@@ -78,7 +86,7 @@ Check out my portfolio here: [anuragk.me](https://anuragk.me)
 If you find my work helpful or just want to say thanks:
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/anuragkumar" target="_blank">
+  <a href="https://buymeacoffee.com/anurag75494?new=1" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
 </p>
