@@ -70,8 +70,6 @@ Check out my portfolio here: [anuragk.me](https://anuragk.me)
 
 📄 [Click to View My Resume](https://drive.google.com/file/d/1ptSAM_5UlR-i9XtxVXeDUZjO9TiFGkQE/view?usp=drive_link)
 
-> _(Tip: Replace the Google Drive link above with your actual resume link if needed.)_
-
 ---
 
 ### 📊 Competitive Programming Stats
